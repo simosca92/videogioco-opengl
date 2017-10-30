@@ -38,3 +38,9 @@ C++ game engine built on SDL and OpenGL
 * sdl2_gfx
 * sdl2_ttf
 * libgl
+
+### To run the game
+
+* make claen
+* make all
+* ./progettoTitanic
